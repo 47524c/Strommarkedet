@@ -1,5 +1,5 @@
 # Strommarkedet
-<H6> Forstudie om strømmarkedet i Norge og churn</H6>
+<H6> Forstudie om strømmarkedet i Norge og churn (med en foreløpig fokus på husholdninger)</H6>
 <H5> Innledning </H5>
 <p> Hva er <i> churn? </i> </p>
 <p> Churn er et engelsk ord for <i> kverne. </i> Men i bedriftsverden er det et begrep for kundefrafall eller kundeavgang. </p>
