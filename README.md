@@ -1,5 +1,6 @@
-# Strommarkedet
-<H6> Forstudie om strømmarkedet i Norge og churn (med en foreløpig fokus på husholdninger)</H6>
+<H1> Churn I Strømmarkedet I Norge </H1>
+
+<H6> Forstudie med en midlertidig fokus på husholdninger </H6>
 
 <H5> Innledning </H5>
 
@@ -79,7 +80,7 @@
 
 <p> Husholdninger og boliger har vokst i takt med hverandre med circa 30 tusen nye boliger hvert år. Circa 95% av boliger er bebodde og dermed okkupert av husholdninger. </p>
 
-![alt tag]
+![alt tag](https://github.com/47524c/Strommarkedet/blob/master/SSB%20Boliger%20og%20Husholdninger%202001%20til%202016.jpg)
 
 	Kilde:
 	SSB
