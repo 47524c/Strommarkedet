@@ -35,7 +35,7 @@
 <p> Det ser ut som en god del husholdninger er for konservative og sky for endringer. </p>
 <p> På strompris.no er det flere typer strømavtaler man kan velge fra men de to mest vanlige for husholdninger er spotpris og variabel pris. Og spotpris er blitt mer og mer vanlig. </p>
 
-![alt tag]https://github.com/47524c/Strommarkedet/blob/master/kontraktstyper.jpg
+![alt tag](https://github.com/47524c/Strommarkedet/blob/master/kontraktstyper.jpg)
 
 	<p> Kilde: Bente Halvorsen, SSB rapport, Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet (2012) </p>
 
