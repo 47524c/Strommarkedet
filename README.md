@@ -1,4 +1,4 @@
-<H1> Churn I Strømmarkedet I Norge </H1>
+<H1> Churn i strømmarkedet i Norge </H1>
 
 <H6> Forstudie med en midlertidig fokus på husholdninger </H6>
 
