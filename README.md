@@ -104,3 +104,4 @@
 	kort tid, telles dette som to leverandørskifter. Antallet forbrukere som har byttet
 	leverandør kan dermed være langt lavere enn leverandørskiftetallene indikerer.
 
+<p> TO BE CONTINUED </p>
