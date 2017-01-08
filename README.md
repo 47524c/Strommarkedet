@@ -52,9 +52,9 @@
 <p> Hva om spotprisen til Fjordkraft hadde vært dobbelt så dyrt som den neste strømleverandøren f.eks. 70 øre/kWt mot 35 øre/kWt? Hadde alle Fjordkraft kunder fått det med seg? Hadde alle flyttet? Og hvor lang tid ville det tatt før de bestemte seg? Hva om spotprisen hadde vært 50% dyrere f.eks. 70 øre/kWt mot 46 øre/kWt? </p>
 <p> Disse type spørsmål kan gi oss en rimelig pekepinn til dynamikken rundt priseffekten på kundeavgang. </p>
 
-<H5> Variabelpris </H5>
+<H5> Variabel pris </H5>
 
-<p> Og så har vi variabelpris som gi oss et helt annet bilde. Fjordkraft er circa 60% dyrere enn den billigste leverandøren, Telinet, 24 øre/kWt mot 15 øre/kWt. Mens den er circa 50% billigere enn Hafslund, 24 øre/kWt mot 45 øre/kWt. Og Hafslund er hele 3 ganger dyrere enn Telinet! </p>
+<p> Vi får et helt annet bilde med variabel pris. Fjordkraft er circa 60% dyrere enn den billigste leverandøren, Telinet, 24 øre/kWt mot 15 øre/kWt, og circa 50% billigere enn Hafslund, 24 øre/kWt mot 45 øre/kWt. Hafslund derimot er hele 3 ganger dyrere enn Telinet! </p>
 
 <H5> Strømleverandørene </H5>
 
