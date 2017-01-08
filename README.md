@@ -74,3 +74,18 @@
 	Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet
 
 <p> Strømforbruket på Hordaland er circa 10% av forbruket på landsbasis. Nesten det samme som Fjordkraft´s markedsandel? Kan markedsandeler være regional? Med Fjordkraft som størst i Hordaland og Hafslund som størst i Oslo og sør område? Er det så enkelt? Bor man i Bergen så velge man Fjordkraft. Bor man i Oslo så velge man Hafslund. <i> Kognitiv bias? </i> </p>
+
+<H5> Husholdninger </H5>
+
+<p> Husholdninger og boliger har vokst i takt med hverandre med circa 30 tusen nye boliger hvert år. Circa 95% av boliger er bebodde og dermed okkupert av husholdninger. </p>
+
+![alt tag]
+
+	Kilde:
+	SSB
+	Tabell: 06265: Boliger, etter bygningstype (K),
+	Tabell: 09808: Bebodde boliger og bosatte, etter bygningstype (K),
+	Tabell: 05452: Privathusholdninger, etter husholdningsstørrelse
+
+<p> I 2016 var det registrert circa 2,5 millioner boliger. Av disse var circa 2,4 millioner bebodde. Hafslund med en markedsandel av 70%, leverte strøm til circa 1,7 millioner av disse husholdninger. Og Fjordkraft med en markedsandel av circa 13%, leverte strøm til circa 300 tusen husholdninger. </p>
+
