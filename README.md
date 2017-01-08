@@ -94,7 +94,7 @@
 
 <p> NVE´s undersøkelser viser at markedsandeler til Hafslund og Fjordkraft har vært veldig stabil (i hvert fall siden 2010). Man kan lett tenke at det har ikke vært særlig mange leverandørskifter i Norge. Men, ifølge NVE igjen, har det vært mellom 200 til 400 tusen leverandørskifter hvert år siden 2002. </p>
 
-![alt tag]
+![alt tag](https://github.com/47524c/Strommarkedet/blob/master/leverandørskifter.jpg)
 
 	Kilde: NVEs leverandørskifteundersøkelse, 3. kvartal 2016
 	
