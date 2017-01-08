@@ -29,15 +29,16 @@
 
 <p> Det er relativt enkelt i dag å sammenligne strømpriser på nett, for eksempel på strompris.no, og dermed velge det billigste tilbudet. Men gjør alle husholdninger dette på en regelsmessig basis? Mistanken er nei. Og en rapport fra NVE kan kanskje bekrefte dette. </p>
 
-	<p> 43% av norske husholdningskunder i 3. kvartal 2016 ikke har byttet kraftleverandør de siste 5 årene 	eller mer. </p>
-	<p> Kilde: https://www.nve.no/Media/4940/3-kvartal-2016-hovedtall-fra-nves-leverandørskifteundersøkelse_osb.pdf
+	43% av norske husholdningskunder i 3. kvartal 2016 ikke har byttet kraftleverandør de siste 5 årene eller mer.
+	
+	Kilde: https://www.nve.no/Media/4940/3-kvartal-2016-hovedtall-fra-nves-leverandørskifteundersøkelse_osb.pdf
 
 <p> Det ser ut som en god del husholdninger er for konservative og sky for endringer. </p>
 <p> På strompris.no er det flere typer strømavtaler man kan velge fra men de to mest vanlige for husholdninger er spotpris og variabel pris. Og spotpris er blitt mer og mer vanlig. </p>
 
 ![alt tag](https://github.com/47524c/Strommarkedet/blob/master/kontraktstyper.jpg)
 
-	<p> Kilde: Bente Halvorsen, SSB rapport, Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet (2012) </p>
+	Kilde: Bente Halvorsen, SSB rapport, Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet (2012)
 
 <H5> Spotpris </H5>
 
