@@ -90,3 +90,17 @@
 
 <p> I 2016 var det registrert circa 2,5 millioner boliger. Av disse var circa 2,4 millioner bebodde. Hafslund med en markedsandel av 70%, leverte strøm til circa 1,7 millioner av disse husholdninger. Og Fjordkraft med en markedsandel av circa 13%, leverte strøm til circa 300 tusen husholdninger. </p>
 
+<H5> Leverandørskifter </H5>
+
+<p> NVE´s undersøkelser viser at markedsandeler til Hafslund og Fjordkraft har vært veldig stabil (i hvert fall siden 2010). Man kan lett tenke at det har ikke vært særlig mange leverandørskifter i Norge. Men, ifølge NVE igjen, har det vært mellom 200 til 400 tusen leverandørskifter hvert år siden 2002. </p>
+
+![alt tag]
+
+	Kilde: NVEs leverandørskifteundersøkelse, 3. kvartal 2016
+	
+	Det er verdt å merke seg at dette er tall som viser antall leverandørskifter,
+	ikke antall forbrukere som skifter leverandør. Det betyr at dersom en forbruker
+	bytter leverandør, og deretter bytter tilbake til sin forrige leverandør etter
+	kort tid, telles dette som to leverandørskifter. Antallet forbrukere som har byttet
+	leverandør kan dermed være langt lavere enn leverandørskiftetallene indikerer.
+
