@@ -33,7 +33,7 @@
 	eller mer.
 	
 	Kilde:
-	https://www.nve.no/Media/4940/3-kvartal-2016-hovedtall-fra-nves-leverandørskifteundersøkelse_osb.pdf
+	www.nve.no/Media/4940/3-kvartal-2016-hovedtall-fra-nves-leverandørskifteundersøkelse_osb.pdf
 
 <p> Det ser ut som en god del husholdninger er for konservative og sky for endringer. </p>
 <p> På strompris.no er det flere typer strømavtaler man kan velge fra men de to mest vanlige for husholdninger er spotpris og variabel pris. Og spotpris er blitt mer og mer vanlig. </p>
@@ -41,7 +41,8 @@
 ![alt tag](https://github.com/47524c/Strommarkedet/blob/master/kontraktstyper.jpg)
 
 	Kilde:
-	Bente Halvorsen, SSB rapport, Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet (2012)
+	Bente Halvorsen, SSB rapport(2012),
+	Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet
 
 <H5> Spotpris </H5>
 
@@ -59,14 +60,17 @@
 
 <p> Hafslund er Norges desidert størst strømleverandør med en markedsandel på hele 70%. Og Fjordkraft er nest størst med en markedsandel på circa 13%. </p>
 
-
+![alt tag](https://github.com/47524c/Strommarkedet/blob/master/markedsandel.jpg)
 
 	Kilde:
-	https://www.nve.no/elmarkedstilsynet-marked-og-monopol/rapporter-og-analyser/leverandorskifteundersokelsen/
-	http://forbrukernet.com/strøm/strømleverandører.php
+	www.nve.no/elmarkedstilsynet-marked-og-monopol/rapporter-og-analyser/leverandorskifteundersokelsen/
+	
+	forbrukernet.com/strøm/strømleverandører.php
 
+![alt tag](https://github.com/47524c/Strommarkedet/blob/master/årlig%20forbruk.jpg)
 
-
-	Kilde: Bente Halvorsen, SSB rapport, Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet (2012)
+	Kilde:
+	Bente Halvorsen, SSB rapport (2012),
+	Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet
 
 <p> Strømforbruket på Hordaland er circa 10% av forbruket på landsbasis. Nesten det samme som Fjordkraft´s markedsandel? Kan markedsandeler være regional? Med Fjordkraft som størst i Hordaland og Hafslund som størst i Oslo og sør område? Er det så enkelt? Bor man i Bergen så velge man Fjordkraft. Bor man i Oslo så velge man Hafslund. <i> Kognitiv bias? </i> </p>
