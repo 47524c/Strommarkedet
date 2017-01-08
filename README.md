@@ -54,3 +54,19 @@
 <H5> Variabelpris </H5>
 
 <p> Og så har vi variabelpris som gi oss et helt annet bilde. Fjordkraft er circa 60% dyrere enn den billigste leverandøren, Telinet, 24 øre/kWt mot 15 øre/kWt. Mens den er circa 50% billigere enn Hafslund, 24 øre/kWt mot 45 øre/kWt. Og Hafslund er hele 3 ganger dyrere enn Telinet! </p>
+
+<H5> Strømleverandørene </H5>
+
+<p> Hafslund er Norges desidert størst strømleverandør med en markedsandel på hele 70%. Og Fjordkraft er nest størst med en markedsandel på circa 13%. </p>
+
+
+
+	Kilde:
+	https://www.nve.no/elmarkedstilsynet-marked-og-monopol/rapporter-og-analyser/leverandorskifteundersokelsen/
+	http://forbrukernet.com/strøm/strømleverandører.php
+
+
+
+	Kilde: Bente Halvorsen, SSB rapport, Utviklingen i strømforbruket, prisfølsomheten og strømmarkedet (2012)
+
+<p> Strømforbruket på Hordaland er circa 10% av forbruket på landsbasis. Nesten det samme som Fjordkraft´s markedsandel? Kan markedsandeler være regional? Med Fjordkraft som størst i Hordaland og Hafslund som størst i Oslo og sør område? Er det så enkelt? Bor man i Bergen så velge man Fjordkraft. Bor man i Oslo så velge man Hafslund. <i> Kognitiv bias? </i> </p>
