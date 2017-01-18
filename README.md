@@ -120,4 +120,10 @@
 
 <p> Som bildet under viser, rapporterer Hafslund at de har vokst med ca. 20 tusen kunder hvert år mellom 2004 til 2014 (fra ca. 540 tusen til 740 tusen.) En del av disse kan være bedriftskunder? </p>
 
+![alt tag](https://github.com/47524c/Strommarkedet/blob/master/Hafslund%20kundemasse%202004%20til%202014.jpg)
+
+	Kilde: Hafslund Analytikerpresentasjon 1. kvartal 2015
+
+<p> Dersom vi redusere for bedriftskunder, kan vi kanskje komme litt nærmere resultatene fra markedsmodellen? Men modellen må fortsatt justeres i forhold til Hafslund´s rapporterte tall. </p>
+
 <p> TO BE CONTINUED </p>
