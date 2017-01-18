@@ -134,7 +134,7 @@
 
 <p> Markedsmodellen må skikkelig justeres for å ta hensyn til disse tall fra Fjordkraft. </p>
 
-Veien Videre?
+<H5> Veien Videre? </H5>
 
 <ol type="1">
 	<li> Et mer nyansert bilde av husholdningsmarkedet på tvers av: region, tid, kundesegmenter og produkttyper. </li>
