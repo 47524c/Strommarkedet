@@ -98,15 +98,26 @@
 
 	Kilde: NVEs leverandørskifteundersøkelse, 3. kvartal 2016
 	
-	Det er verdt å merke seg at dette er tall som viser antall leverandørskifter,
-	ikke antall forbrukere som skifter leverandør. Det betyr at dersom en forbruker
-	bytter leverandør, og deretter bytter tilbake til sin forrige leverandør etter
-	kort tid, telles dette som to leverandørskifter. Antallet forbrukere som har byttet
-	leverandør kan dermed være langt lavere enn leverandørskiftetallene indikerer.
+	Det er verdt å merke seg at dette er tall som viser antall
+	leverandørskifter,ikke antall forbrukere som skifter leverandør.
+	Det betyr at dersom en forbruker bytter leverandør, og deretter
+	bytter tilbake til sin forrige leverandør etter kort tid, telles
+	dette som to leverandørskifter. Antallet forbrukere som har byttet
+	leverandør kan dermed være langt lavere enn leverandørskiftetallene
+	indikerer.
 
 <H5> Markedsmodell </H5>
 
 <p> Med bruk av en veldig enkel datamodell (og veldig grove estimerte parametre), får jeg resultater som viser at Fjordkraft har vokst med ca. 5 tusen husholdningskunder hvert år. Mens Hafslund har vokst med ca. 12 til 13 tusen husholdningskunder hvert år. Modellen er foreløpig basert på egne hypoteser om strømmarkedet i Norge, og må selvfølgelig bli korrigert med reelle tall og et langt bedre bilde av markedet enn det jeg har foreløpig klart å danne. </p>
 
+<H5> Hafslund </H5>
+
+<p> Hafslund rapporterer at de har bare 700 tusen kunder i Norge (inkludert bedriftskunder?) </p>
+
+	Kilde: Analytikerpresentasjon 3. kvartal 2016
+
+<p> Dette er langt mindre enn de ca. 1,7 millioner husholdninger som utgjør 70% av husholdninger i Norge. Dersom dette er riktig, leverer Hafslund strøm til mindre enn 30% av husholdninger i Norge? Hva er det reelle bildet? Har Hafslund beregnet markedsandeler på enn litt annen måte enn NVE? </p>
+
+<p> Som bildet under viser, rapporterer Hafslund at de har vokst med ca. 20 tusen kunder hvert år mellom 2004 til 2014 (fra ca. 540 tusen til 740 tusen.) En del av disse kan være bedriftskunder? </p>
 
 <p> TO BE CONTINUED </p>
