@@ -1,6 +1,6 @@
-<H1> Churn i strømmarkedet i Norge </H1>
+<H1> Churn i Det Norske Strømmarkedet </H1>
 
-<H6> Forstudie med en midlertidig fokus på husholdninger </H6>
+<H6> Forstudie med en fokus på husholdninger </H6>
 
 <H5> Innledning </H5>
 
@@ -103,5 +103,10 @@
 	bytter leverandør, og deretter bytter tilbake til sin forrige leverandør etter
 	kort tid, telles dette som to leverandørskifter. Antallet forbrukere som har byttet
 	leverandør kan dermed være langt lavere enn leverandørskiftetallene indikerer.
+
+<H5> Markedsmodell </H5>
+
+<p> Med bruk av en veldig enkel datamodell (og veldig grove estimerte parametre), får jeg resultater som viser at Fjordkraft har vokst med ca. 5 tusen husholdningskunder hvert år. Mens Hafslund har vokst med ca. 12 til 13 tusen husholdningskunder hvert år. Modellen er foreløpig basert på egne hypoteser om strømmarkedet i Norge, og må selvfølgelig bli korrigert med reelle tall og et langt bedre bilde av markedet enn det jeg har foreløpig klart å danne. </p>
+
 
 <p> TO BE CONTINUED </p>
