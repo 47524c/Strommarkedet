@@ -108,7 +108,9 @@
 
 <H5> Markedsmodell </H5>
 
-<p> Med bruk av en veldig enkel datamodell (og veldig grove estimerte parametre), får jeg resultater som viser at Fjordkraft har vokst med ca. 5 tusen husholdningskunder hvert år. Mens Hafslund har vokst med ca. 12 til 13 tusen husholdningskunder hvert år. Modellen er foreløpig basert på egne hypoteser om strømmarkedet i Norge, og må selvfølgelig bli korrigert med reelle tall og et langt bedre bilde av markedet enn det jeg har foreløpig klart å danne. </p>
+<p> Ved bruk av en veldig enkel datamodell (og veldig grove estimerte parametre), får jeg resultater som viser at Fjordkraft har vokst med ca. 5 tusen husholdningskunder hvert år. Mens Hafslund har vokst med ca. 12 til 13 tusen husholdningskunder hvert år. </p>
+
+<p> Modellen er foreløpig basert på egne hypoteser om strømmarkedet i Norge, og må selvfølgelig bli korrigert med reelle tall og et langt bedre bilde av markedet enn det jeg har foreløpig klart å danne. </p>
 
 <H5> Hafslund </H5>
 
