@@ -142,7 +142,7 @@
 	<li> Et mer nyansert bilde av husholdningsmarkedet på tvers av: region, tid, kundesegmenter og produkttyper. </li>
 	<li> Et bilde av bedrift / SMB markedet (lik analysen av husholdningsmarkedet.) </li>
 	<li> Et klarere bilde av hvorfor kunder skifter strømleverandører og dynamikken rundt det. </li>
-	<li> Et bedre markedsmodell.
+	<li> En bedre markedsmodell.
 </ol>
 
 <p> TO BE CONTINUED </p>
